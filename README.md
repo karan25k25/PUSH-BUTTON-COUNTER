@@ -21,3 +21,7 @@ Edge detection ensures one count per physical press.
 Implementation can use timer polling or interrupt-driven logic.
 
 System outputs the count to displays (LEDs, LCD, etc.), and can be extended for long presses or multi-click action.
+
+##OUTPUT
+
+● TemperatureMonitor.java - intern - Visual Studio Code 30-07-2025 08_12_18 PM
