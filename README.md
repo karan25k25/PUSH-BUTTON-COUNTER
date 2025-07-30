@@ -24,4 +24,4 @@ System outputs the count to displays (LEDs, LCD, etc.), and can be extended for 
 
 ##OUTPUT
 
-● TemperatureMonitor.java - intern - Visual Studio Code 30-07-2025 08_12_18 PM
+<img width="1366" height="720" alt="Image" src="https://github.com/user-attachments/assets/177f67f3-6451-4fb9-a77f-8f19d1706c2e" />
