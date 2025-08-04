@@ -24,4 +24,4 @@ System outputs the count to displays (LEDs, LCD, etc.), and can be extended for 
 
 ##OUTPUT
 
-
+<img width="1302" height="685" alt="Image" src="https://github.com/user-attachments/assets/323159e7-5633-4a42-bd15-79862b9b67fc" />
